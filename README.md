@@ -79,12 +79,6 @@ Compile o TypeScript para JavaScript:
 npm run build
 ```
 
-### Inicialização
-Crie o usuário administrador inicial:
-```bash
-node dist/init.js
-```
-
 ### Execução
 Execute o sistema:
 ```bash
